@@ -1,0 +1,1 @@
+# MSU_AI_course
