@@ -19,6 +19,7 @@ ____
 Для установки необходимых пакетов: 
 ```
  !pip install neo-ls-svm
+ !pip install tensorboard
  !pip install -r requirements.txt
 ```
  ## Формирование датасета
